@@ -29,7 +29,7 @@ public class Property {
     /**
      *
      * A get method, to provide access to the values that address holds and
-     * @return it 
+     * @return address 
      */
     public double getAddress() {
         return address;
@@ -37,7 +37,7 @@ public class Property {
 
     /**
      *A get method, to provide access to the values that address holds and  
-     * @return it
+     * @return price 
      */
     public double getPrice() {
         return price;
@@ -45,7 +45,7 @@ public class Property {
 
     /**
      * A get method, to provide access to the values that Landsize holds and 
-     * @return it
+     * @return landsize 
      */
     public double getLandsize() {
         return landsize;

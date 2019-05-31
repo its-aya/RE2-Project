@@ -86,7 +86,7 @@ public class RE2 {
      * Finds their means and subtracts it from each value and sums that 
      * Calculates variance and covariance 
      * Uses calculations to find slope and y-intercept 
-     * @return
+     * @return it returns m and c in the array list
      */
     public static ArrayList<Double> sum(ArrayList<Property> SpecificPostCode) {
         double sumx = 0;
